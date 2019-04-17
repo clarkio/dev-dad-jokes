@@ -13,7 +13,7 @@ A collection of good yet bad dad jokes around the technology industry
 
 - [thecodingaviator](https://github.com/thecodingaviator/)
 
-    > What happens after old programmers die? They decomplie.
+    > What happens after old programmers die? They decompile.
     
     > Q: How many Microsoft engineers does it take to screw in a light bulb?<br>
-    > A: None. They just declare darkness the standard
+    > A: Only one chair with a colorful bulb?
