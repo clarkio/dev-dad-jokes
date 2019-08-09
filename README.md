@@ -17,3 +17,9 @@ A collection of good yet bad dad jokes around the technology industry
     
     > Q: How many Microsoft engineers does it take to screw in a light bulb?<br>
     > A: Only one chair with a colorful bulb?
+    
+- [CodemanCodes](https://github.com/CodemanCodes)
+
+    > Q: What did the fish have for lunch?
+    > A: SEE-FOOD
+    
