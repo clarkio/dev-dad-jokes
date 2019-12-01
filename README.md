@@ -22,4 +22,6 @@ A collection of good yet bad dad jokes around the technology industry
 
     > Q: What did the fish have for lunch?
     > A: SEE-FOOD
-    
+
+- [viranchee](https://github.com/viranchee)
+    > Dad DevOps, more like DevPops
