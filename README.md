@@ -622,4 +622,10 @@ There are 10 types of people in this world, those who understand binary and thos
 
 **A**: Made a hash of it.
 
+---
+
+**Q**: Why do emails hate yoga?
+
+**A**: They aren't flex-ible.
+
 —--
