@@ -624,6 +624,12 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
+**Q**: Why do emails hate yoga?
+
+**A**: They aren't flex-ible.
+
+---
+
 **Q**: Why didn't the developer ever finish the email templates?
 
 **A**: They got `<table>`d.
