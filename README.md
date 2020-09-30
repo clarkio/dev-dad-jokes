@@ -622,4 +622,10 @@ There are 10 types of people in this world, those who understand binary and thos
 
 **A**: Made a hash of it.
 
-—--
+---
+
+**Q**: Why didn't the developer ever finish the email templates?
+
+**A**: They got `<table>`d.
+
+---
