@@ -23,3 +23,11 @@ A collection of good yet bad dad jokes around the technology industry
     > Q: What did the fish have for lunch?
     > A: SEE-FOOD
     
+- [Iamblue](https://github.com/iamblue175)
+
+  > Roses are red, Violets are blue
+   >There's an '{' error on line 32!
+
+- [Iamblue](https://github.com/iamblue175)
+> EVerytime the deliery guy says he can't find my house, why??
+>Meanwhile house number: 404!
