@@ -25,5 +25,5 @@ A collection of good yet bad dad jokes around the technology industry
     
 - [Iamblue](https://github.com/iamblue175)
 
-   Roses are red, Violets are blue
-   There's an '{' error on line 32!
+  > Roses are red, Violets are blue
+   >There's an '{' error on line 32!
