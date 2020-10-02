@@ -27,3 +27,7 @@ A collection of good yet bad dad jokes around the technology industry
 
   > Roses are red, Violets are blue
    >There's an '{' error on line 32!
+
+- [Iamblue](https://github.com/iamblue175)
+> EVerytime the deliery guy says he can't find my house, why??
+>Meanwhile house number: 404!
