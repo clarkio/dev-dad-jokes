@@ -635,3 +635,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **A**: They got `<table>`d.
 
 ---
+
+**Q:** Why doesn't anyone trust Javascript developers?
+
+**A:** They over-React.
+
+---
